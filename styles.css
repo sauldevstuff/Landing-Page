@@ -3,20 +3,19 @@
     margin: 0px;
     padding: 0px;
 }
-.box1 {
-    width: auto;
-    height: 250px;
-    background-color: #1f2937;
+.header-stuff {
+    display: flex;
+    justify-content: space-around;
 }
 h1 {
-    color: #F9FAF8;
     font-size: 24px;
-    margin-left: 150px
+    color: #F9FAF8
 }
-p {
-    display: inline;
-    font-size: 18px;
+h2 {
+    font-size: 15px;
     color: #E5E7EB;
-    margin-right: 10px;
-    float: right;
+}
+.header-box {
+    background-color: #1F2937;
+    height: 200px;
 }
