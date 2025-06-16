@@ -34,9 +34,11 @@ p {
     color: #E5E7EB;
 }
 button {
+    margin-top: 8px;
     color: white;
     background-color: #24A0ED;
-    padding: 5px 20px;
+    padding: 8px 25px;
+    border-radius: 10px;
 }
 .image-placeholder-text {
     margin-top: 0px;
@@ -49,20 +51,22 @@ button {
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 350px;
-    font-size: 27px;
+    height: 330px;
+    font-size: 36px;
     font-weight: 900;
     color: #1F2937
 }
 .box {
     background-color: transparent;
-    width: 100px;
-    height: 100px;
+    width: 160px;
+    height: 160px;
     border: 3px solid #24A0ED;
-    margin-inline: -400px;
+    margin-inline: -300px;
+    border-radius: 20px;
 }
 .info-boxes {
     display: flex;
     justify-content: space-evenly;
+    margin-top: -100px;
     
 }
