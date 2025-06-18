@@ -64,9 +64,14 @@ button {
     margin-inline: -300px;
     border-radius: 20px;
 }
-.info-boxes {
+.info-boxes-grouped {
     display: flex;
     justify-content: space-evenly;
     margin-top: -100px;
-    
+}
+.text-under-box {
+    display: flex;
+    justify-content: space-evenly;
+    margin-inline: 280px;
+    text-align: center;
 }
