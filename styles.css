@@ -75,3 +75,24 @@ button {
     margin-inline: 280px;
     text-align: center;
 }
+.quote-box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: #E5E7EB;
+    height: 250px; 
+    margin-top: 100px;
+}
+.quote-text {
+    font-size: 33px;
+    color: #1F2937;
+    font-weight: 300;
+    font-style: italic;
+}
+.quote-text-sign-off {
+    font-size: 20px;
+    font-weight: bold;
+    align-self: center;
+    margin-left: 450px;
+}
