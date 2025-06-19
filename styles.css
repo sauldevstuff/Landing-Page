@@ -103,9 +103,8 @@ p {
     background: #3882F6;
     width: 900px;
     height: 100px;
-    margin-inline: 300px;
     border-radius: 5px;
-    margin-top: 70px;
+    margin: 70px auto 0;
 }
 .call-to-action-text {
     color: white;
