@@ -105,7 +105,7 @@ p {
     height: 100px;
     margin-inline: 300px;
     border-radius: 5px;
-    margin-top: 60px;
+    margin-top: 70px;
 }
 .call-to-action-text {
     color: white;
@@ -119,4 +119,16 @@ p {
     padding: 8px 25px;
     border-radius: 10px;
     border-color: white;
+}
+.footer-box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #1F2937;
+    height: 70px;
+    margin-top: 80px;
+}
+.footer-text {
+    color: white;
+    font-size: 15px
 }
